@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "56203526193",
+    "firebase_url": "https://baimanagement-8befc.firebaseio.com",
+    "project_id": "baimanagement-8befc",
+    "storage_bucket": "baimanagement-8befc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:56203526193:android:78a6c06e97e02719",
+        "android_client_info": {
+          "package_name": "com.example.atulkumar.baimanagement"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "56203526193-2dpusfld3ch20p79i7ppu8hdnucit8g5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.atulkumar.baimanagement",
+            "certificate_hash": "15c133626b321748de7c2b3f03ff088a61102e38"
+          }
+        },
+        {
+          "client_id": "56203526193-bs334akh5062v5ua5p64bnf02gvcfrn0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCG220U5TNg0jA_npgLtLG4QrO92AE7TU0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "56203526193-bs334akh5062v5ua5p64bnf02gvcfrn0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

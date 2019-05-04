@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">BaiManagement</string>
+    <string name="title_activity_calendar">CalendarActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="dialog_fire_missiles">Do you really want to logout from the application? </string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+
+    <string name="morning">BreakFast</string>
+    <string name="afternoon">Lunch</string>
+    <string name="night">Dinner</string>
+</resources>
